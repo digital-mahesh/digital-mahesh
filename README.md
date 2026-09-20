@@ -55,29 +55,28 @@ My goal is simple:
 
 <td width="50%" valign="top">
 
-<h2 align="center">🧠 Nepal BankLens AI</h2>
+<h2 align="center">🎬 MovieMind</h2>
 
 <p align="center">
-<strong>Financial Intelligence & Risk Analysis Platform</strong>
+<strong>AI-Powered Movie Discovery & Recommendation</strong>
 </p>
 
 <p>
-An AI-powered research platform designed around Nepalese listed companies, financial documents, financial metrics, risk analysis and evidence-grounded research.
+A movie-focused application designed to make discovering and exploring movies more intelligent and engaging through data-driven recommendations and AI-powered features.
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%2FML-FF6F61?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20App-00D9FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Recommendation-7C3AED?style=flat-square"/>
 
 </p>
 
 <p align="center">
 
-<strong>Financial Analytics • RAG • NLP • Document AI • Risk Analysis • AI Engineering</strong>
+<strong>Recommendation Systems • Data • AI • Web Development</strong>
 
 </p>
 
@@ -372,7 +371,7 @@ Deployment
 
 ---
 
-# 🚀 Development Philosophy
+# 🎯 My Development Philosophy
 
 <div align="center">
 
@@ -391,7 +390,7 @@ Find a problem worth solving.
 
 ### 🧠 LEARN
 
-Understand the technology.
+Understand the fundamentals.
 
 </td>
 
@@ -399,7 +398,7 @@ Understand the technology.
 
 ### 💻 BUILD
 
-Turn the idea into software.
+Turn ideas into software.
 
 </td>
 
@@ -407,7 +406,7 @@ Turn the idea into software.
 
 ### 🚀 DEPLOY
 
-Put it in the real world.
+Put projects into the real world.
 
 </td>
 
@@ -415,7 +414,7 @@ Put it in the real world.
 
 ### 🔄 IMPROVE
 
-Learn from every iteration.
+Iterate and keep learning.
 
 </td>
 
@@ -428,18 +427,31 @@ Learn from every iteration.
 
 # 🌱 Currently Exploring
 
+<div align="center">
+
 ```text
 🐍 Python & Data Engineering
+        ↓
 🤖 Machine Learning
+        ↓
 🧠 Deep Learning
+        ↓
 👁️ Computer Vision
+        ↓
 ✨ Generative AI
+        ↓
 🔎 RAG & Semantic Search
+        ↓
 📚 NLP & LLM Applications
-⚡ FastAPI & AI APIs
+        ↓
+⚡ AI Engineering
+        ↓
 🐳 Docker & Deployment
+        ↓
 ☁️ Production AI / MLOps
 ```
+
+</div>
 
 ---
 
@@ -452,19 +464,19 @@ Learn from every iteration.
 <br>
 
 ```text
-        CODE
-         ↓
-       DATA
-         ↓
-        ML
-         ↓
-       DEEP LEARNING
-         ↓
-       GENERATIVE AI
-         ↓
-    INTELLIGENT SYSTEMS
-         ↓
-      REAL IMPACT 🚀
+CODE
+  ↓
+DATA
+  ↓
+MACHINE LEARNING
+  ↓
+DEEP LEARNING
+  ↓
+GENERATIVE AI
+  ↓
+INTELLIGENT APPLICATIONS
+  ↓
+REAL-WORLD IMPACT 🚀
 ```
 
 </div>
