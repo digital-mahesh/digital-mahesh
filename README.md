@@ -1,345 +1,504 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mahesh+Bhattarai+%F0%9F%91%8B;AI%2FML+Enthusiast+%7C+Python+Developer;Building+Practical+AI+%26+Web+Applications;Machine+Learning+%E2%86%92+Deep+Learning+%E2%86%92+GenAI;Turning+Ideas+Into+Real+Software+%F0%9F%9A%80" alt="Typing introduction"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=digital-mahesh&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br><br>
+
 <a href="https://maheshbhattarai2062.com.np">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=900&color=111827&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Mahesh+Bhattarai+%F0%9F%91%8B;AI%2FML+Engineer+in+the+Making;Building+Practical+AI+%26+Web+Applications;Machine+Learning+%E2%86%92+Deep+Learning+%E2%86%92+GenAI" alt="Typing introduction" />
+<img src="https://img.shields.io/badge/🌐%20Portfolio-00D9FF?style=for-the-badge" alt="Portfolio"/>
 </a>
 
-<p>
-  <a href="https://maheshbhattarai2062.com.np"><strong>🌐 Portfolio</strong></a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/digital-mahesh"><strong>💻 GitHub</strong></a>
-  &nbsp;•&nbsp;
-  <a href="mailto:mbhattarai247@gmail.com"><strong>✉️ Email</strong></a>
-</p>
+<a href="https://github.com/digital-mahesh">
+<img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=digital-mahesh&style=flat-square&label=Profile+Views" alt="Profile views" />
+<a href="https://www.linkedin.com/in/mahesh-bhattarai-7974483b7/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:mbhattarai247@gmail.com">
+<img src="https://img.shields.io/badge/✉️%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
-## 🧭 About Me
+<div align="center">
 
-I’m **Mahesh Bhattarai**, a developer focused on building practical software and gradually moving deeper into **Machine Learning, Deep Learning, and Generative AI**.
+## 🧠 Building at the intersection of AI, Software & Data
 
-I enjoy turning an idea into something people can actually use — from AI-powered image processing tools to web applications and data-driven experiments.
+</div>
 
-```text
-Current direction
-────────────────────────────────────────────────────────
-Software Development
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-MLOps / AI Engineering
-        ↓
-Generative AI
-```
+I'm **Mahesh Bhattarai**, an **AI/ML enthusiast and Python developer** focused on turning ideas into practical software.
 
-> **My approach:** learn the fundamentals → build something useful → deploy it → improve it.
+I enjoy building applications that combine:
+
+**Software Engineering + Machine Learning + Data + AI**
+
+My goal is simple:
+
+> **Learn deeply → Build practically → Deploy publicly → Keep improving.**
 
 ---
 
-## ⚡ What I'm Working On
+# 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 AI / ML
+<h2 align="center">🧠 Nepal BankLens AI</h2>
 
-- Strengthening Python, mathematics & statistics
-- Building practical ML projects
-- Exploring Deep Learning
-- Learning Computer Vision
-- Exploring NLP, RAG & LLM applications
-- Moving toward production-oriented AI engineering
+<p align="center">
+<strong>Financial Intelligence & Risk Analysis Platform</strong>
+</p>
+
+<p>
+An AI-powered research platform designed around Nepalese listed companies, financial documents, financial metrics, risk analysis and evidence-grounded research.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-FF6F61?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square"/>
+
+</p>
+
+<p align="center">
+
+<strong>Financial Analytics • RAG • NLP • Document AI • Risk Analysis • AI Engineering</strong>
+
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🛠️ Engineering
+<h2 align="center">✂️ Cutora</h2>
 
-- FastAPI + Python backends
-- React-based interfaces
-- REST APIs
-- Database-backed applications
-- Deployment & debugging
-- Git/GitHub workflows
+<p align="center">
+<strong>AI Background Remover</strong>
+</p>
 
-</td>
-</tr>
-</table>
+<p>
+An AI-powered web application that automatically removes image backgrounds and produces clean transparent cutouts.
+</p>
 
----
+<p align="center">
 
-## 🚀 Featured Projects
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/U2Net-AI-FF6F61?style=flat-square"/>
 
-### ✂️ Cutora — AI Background Remover
+</p>
 
-**Cutora** is an AI-powered web application that removes image backgrounds and produces clean cutouts.
-
-**Stack:** `React` `FastAPI` `Python` `rembg` `U2Net`
+<p align="center">
 
 <a href="https://cutora-ai-background-remover.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-Cutora-111827?style=for-the-badge" alt="Cutora live demo">
-</a>
-<a href="https://github.com/digital-mahesh/cutora-ai-background-remover">
-  <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-111827?style=for-the-badge" alt="Cutora source code">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00D9FF?style=for-the-badge"/>
 </a>
 
-<details>
-<summary><strong>🔍 What makes it interesting?</strong></summary>
+</p>
 
-<br>
+</td>
 
-- AI-powered background removal
-- React frontend
-- Python/FastAPI backend
-- `rembg` + U2Net inference
-- Multiple image format support
-- Production deployment using Vercel + Render
-- Designed as a real usable web tool rather than only a notebook experiment
+</tr>
 
-</details>
+<tr>
 
----
+<td width="50%" valign="top">
 
-### 🛣️ RoadSewa — Road Maintenance Portal
+<h2 align="center">🔢 DigitLab</h2>
 
-A web-based road maintenance and reporting portal designed around reporting, tracking and managing road-related issues.
+<p align="center">
+<strong>Interactive Handwriting Intelligence</strong>
+</p>
 
-**Stack:** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
+<p>
+A CNN-powered handwriting recognition application where users draw digits directly in the browser and receive predictions with confidence analysis.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/CNN-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<strong>Computer Vision • MNIST • CNN • Image Processing • AI Deployment</strong>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2 align="center">🛣️ RoadSewa</h2>
+
+<p align="center">
+<strong>Road Maintenance Management Platform</strong>
+</p>
+
+<p>
+A full-stack platform for reporting, tracking and managing road maintenance issues.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</p>
+
+<p align="center">
 
 <a href="https://roadsewa.rf.gd/">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-RoadSewa-111827?style=for-the-badge" alt="RoadSewa live demo">
-</a>
-<a href="https://github.com/digital-mahesh/roadsewa-road-maintenance-portal">
-  <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-111827?style=for-the-badge" alt="RoadSewa source code">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00D9FF?style=for-the-badge"/>
 </a>
 
-<details>
-<summary><strong>🔍 What it demonstrates</strong></summary>
+</p>
 
-<br>
+</td>
 
-- User registration & authentication
-- Road issue reporting
-- Issue tracking
-- Administrative workflow
-- MySQL database integration
-- Full-stack web application development
+</tr>
 
-</details>
+</table>
+
+</div>
 
 ---
 
-### 🧠 RecallAI — Personal Memory Search Engine
+# 🔥 What I'm Building
 
-> **Building toward this next.**
-
-A personal knowledge-search application for saving notes, PDFs, bookmarks, URLs, screenshots and ideas — then asking natural-language questions across the saved information.
-
-**Planned stack:** `Python` `FastAPI` `Embeddings` `Vector DB` `RAG` `React`
-
-Example:
+<div align="center">
 
 ```text
-"What did I save about RAG last month?"
-                    ↓
-        Semantic Search + Retrieval
-                    ↓
-              Relevant Context
-                    ↓
-             AI-generated Answer
+                         MY AI JOURNEY
+
+     SOFTWARE
+        │
+        ▼
+   PYTHON + DATA
+        │
+        ▼
+ MACHINE LEARNING
+        │
+        ▼
+ DEEP LEARNING
+        │
+        ▼
+ COMPUTER VISION
+        │
+        ▼
+   GENAI / LLM
+        │
+        ▼
+    RAG + NLP
+        │
+        ▼
+  AI ENGINEERING
+        │
+        ▼
+ PRODUCTION AI 🚀
 ```
 
----
-
-## 🧰 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,php,sql" alt="Programming languages" />
-</p>
-
-### AI / Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI technologies" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" alt="Hugging Face">
-</p>
-
-### Web / Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,fastapi,streamlit,mysql,html,css" alt="Web technologies" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" alt="Development tools" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub in Motion
+# 🧰 Tech Stack
+
+<div align="center">
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,php,mysql" />
+
+<br><br>
+
+### 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<br><br>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=react,fastapi,html,css,js" />
+
+<br><br>
+
+### ⚙️ Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
+
+</div>
+
+---
+
+# 🧠 AI / ML Interests
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**Machine Learning**
+
+Classification
+Regression
+Feature Engineering
+Model Evaluation
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**Deep Learning**
+
+Neural Networks
+CNNs
+Computer Vision
+Model Optimization
+
+</td>
+
+<td align="center" width="25%">
+
+### ✨
+
+**Generative AI**
+
+LLMs
+Embeddings
+RAG
+AI Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**AI Engineering**
+
+FastAPI
+Model Serving
+Docker
+Deployment
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub in Motion
 
 <div align="center">
 
 <a href="https://github.com/digital-mahesh">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=digital-mahesh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false&theme=transparent" alt="Mahesh's GitHub stats" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=digital-mahesh&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&bg_color=00000000&title_color=00D9FF&icon_color=7C3AED&text_color=9CA3AF" />
+
 </a>
+
 <a href="https://github.com/digital-mahesh">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digital-mahesh&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digital-mahesh&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=9CA3AF" />
+
 </a>
 
 <br><br>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=digital-mahesh&hide_border=true&background=transparent" alt="GitHub contribution streak" />
-</a>
+<img src="https://streak-stats.demolab.com?user=digital-mahesh&hide_border=true&background=00000000&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=9CA3AF&dates=6B7280" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="./output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=digital-mahesh&bg_color=00000000&color=9CA3AF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
-> The contribution animation is generated automatically by GitHub Actions.
-
 ---
 
-## 📈 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=digital-mahesh&hide_border=true&bg_color=00000000&color=111827&line=111827&point=111827&area=true" alt="GitHub activity graph" />
+<img src="./output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-## 🎯 My Learning Path
+# 🚀 Development Philosophy
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+### 💡 THINK
+
+Find a problem worth solving.
+
+</td>
+
+<td align="center">
+
+### 🧠 LEARN
+
+Understand the technology.
+
+</td>
+
+<td align="center">
+
+### 💻 BUILD
+
+Turn the idea into software.
+
+</td>
+
+<td align="center">
+
+### 🚀 DEPLOY
+
+Put it in the real world.
+
+</td>
+
+<td align="center">
+
+### 🔄 IMPROVE
+
+Learn from every iteration.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
 
 ```text
-                 ┌──────────────────────┐
-                 │   Software Building  │
-                 └──────────┬───────────┘
-                            ↓
-                 ┌──────────────────────┐
-                 │ Python + Data        │
-                 └──────────┬───────────┘
-                            ↓
-                 ┌──────────────────────┐
-                 │ Machine Learning     │
-                 └──────────┬───────────┘
-                            ↓
-                 ┌──────────────────────┐
-                 │ Deep Learning        │
-                 └──────────┬───────────┘
-                            ↓
-                 ┌──────────────────────┐
-                 │ MLOps + Deployment   │
-                 └──────────┬───────────┘
-                            ↓
-                 ┌──────────────────────┐
-                 │ GenAI / LLM / RAG    │
-                 └──────────┬───────────┘
-                            ↓
-                 ┌──────────────────────┐
-                 │   AI Engineering    │
-                 └──────────────────────┘
+🐍 Python & Data Engineering
+🤖 Machine Learning
+🧠 Deep Learning
+👁️ Computer Vision
+✨ Generative AI
+🔎 RAG & Semantic Search
+📚 NLP & LLM Applications
+⚡ FastAPI & AI APIs
+🐳 Docker & Deployment
+☁️ Production AI / MLOps
 ```
 
 ---
 
-## 🧪 Areas I'm Exploring
-
-<details>
-<summary><strong>🤖 Machine Learning</strong></summary>
-
-<br>
-
-Supervised learning • Regression • Classification • Model evaluation • Feature engineering • Cross-validation • Ensemble methods
-
-</details>
-
-<details>
-<summary><strong>🧠 Deep Learning</strong></summary>
-
-<br>
-
-Neural networks • CNNs • Computer Vision • Model optimization • Transfer learning
-
-</details>
-
-<details>
-<summary><strong>✨ Generative AI</strong></summary>
-
-<br>
-
-LLMs • Embeddings • RAG • Vector databases • AI-powered applications • Prompt engineering
-
-</details>
-
-<details>
-<summary><strong>⚙️ AI Engineering</strong></summary>
-
-<br>
-
-FastAPI • Model serving • APIs • Deployment • Application architecture • MLOps fundamentals
-
-</details>
-
----
-
-## 🌐 Find Me Online
+# 🏆 The Goal
 
 <div align="center">
 
-<a href="https://maheshbhattarai2062.com.np">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-</a>
+### From **writing code** → to **building intelligent systems**
 
-<a href="https://github.com/digital-mahesh">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+<br>
 
-<!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username -->
-<a href="https://www.linkedin.com/in/mahesh-bhattarai-7974483b7/">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+```text
+        CODE
+         ↓
+       DATA
+         ↓
+        ML
+         ↓
+       DEEP LEARNING
+         ↓
+       GENERATIVE AI
+         ↓
+    INTELLIGENT SYSTEMS
+         ↓
+      REAL IMPACT 🚀
+```
 
 </div>
 
 ---
 
+# 🌐 Let's Connect
+
 <div align="center">
 
-### 💡 Build. Learn. Deploy. Repeat.
+<a href="https://maheshbhattarai2062.com.np">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00D9FF?style=for-the-badge"/>
+</a>
 
-<p>
-<i>Thanks for visiting my profile.</i>
-</p>
+<a href="https://github.com/digital-mahesh">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,100:374151" alt="Footer">
+<a href="https://www.linkedin.com/in/mahesh-bhattarai-7974483b7/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mbhattarai247@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00D9FF,50:2563EB,100:7C3AED" alt="Animated footer"/>
 
 </div>
