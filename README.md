@@ -324,7 +324,7 @@ FastAPI • Model serving • APIs • Deployment • Application architecture �
 </a>
 
 <!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/mahesh-bhattarai-7974483b7/">
 <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
