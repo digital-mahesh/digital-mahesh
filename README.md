@@ -9,7 +9,7 @@
   &nbsp;•&nbsp;
   <a href="https://github.com/digital-mahesh"><strong>💻 GitHub</strong></a>
   &nbsp;•&nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com"><strong>✉️ Email</strong></a>
+  <a href="mailto:mbhattarai247@gmail.com"><strong>✉️ Email</strong></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=digital-mahesh&style=flat-square&label=Profile+Views" alt="Profile views" />
